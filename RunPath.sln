@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunPath.WebApi", "RunPath.WebApi\RunPath.WebApi.csproj", "{753AAC34-E3B4-48EB-8628-6754131CB491}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunPath.WebApi", "RunPath.WebApi\RunPath.WebApi.csproj", "{753AAC34-E3B4-48EB-8628-6754131CB491}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunPath.WebApi.Domain", "RunPath.WebApi.Domain\RunPath.WebApi.Domain.csproj", "{FE5BC8BA-C6C7-4F38-99F7-0F2C4BCDB0DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunPath.WebApi.Domain", "RunPath.WebApi.Domain\RunPath.WebApi.Domain.csproj", "{FE5BC8BA-C6C7-4F38-99F7-0F2C4BCDB0DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunPath.WebApi.Services", "RunPath.WebApi.Services\RunPath.WebApi.Services.csproj", "{7A4BDC77-AC62-4054-A307-C90B1B5DD4D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunPath.WebApi.Services", "RunPath.WebApi.Services\RunPath.WebApi.Services.csproj", "{7A4BDC77-AC62-4054-A307-C90B1B5DD4D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunPath.WebApi.Tests", "RunPath.WebApi.Tests\RunPath.WebApi.Tests.csproj", "{4C68547E-18B9-4654-9E74-5AC5EFB96A1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RunPath.WebApi.Tests", "RunPath.WebApi.Tests\RunPath.WebApi.Tests.csproj", "{4C68547E-18B9-4654-9E74-5AC5EFB96A1D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
